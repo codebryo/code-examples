@@ -1,0 +1,23 @@
+{
+  "name": "code-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebryo/code-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebryo/code-examples/issues"
+  },
+  "homepage": "https://github.com/codebryo/code-examples#readme",
+  "devDependencies": {
+    "ava": "^4.3.0"
+  }
+}
